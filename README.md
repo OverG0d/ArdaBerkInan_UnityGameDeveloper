@@ -6,3 +6,13 @@
  so the kids won't struggle with it. I made it easy for kids to understand the game by 
  displaying everything they need to know on the home screen.
  
+How to play:
+
+Left/Right Arrow: Move left and right
+Up Arrow: Move up
+Escape: Quit Game
+
+Win and Lose condition:
+
+I did not have enough time to create a win and lose screen.
+The game restarts whether you win or lose.
