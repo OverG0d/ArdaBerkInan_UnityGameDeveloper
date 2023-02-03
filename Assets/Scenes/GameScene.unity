@@ -286,7 +286,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -200, y: -181}
+  m_AnchoredPosition: {x: -200, y: -149}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &214249024
@@ -710,9 +710,7 @@ MonoBehaviour:
     Left/Right Arrow = Move Left
     and Right
 
-    Escape = Quit Game
-
-    100 points to win!'
+    Escape = Quit Game'
 --- !u!222 &777678502
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1034,7 +1032,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -200, y: -109}
+  m_AnchoredPosition: {x: -200, y: -77}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1291398548
